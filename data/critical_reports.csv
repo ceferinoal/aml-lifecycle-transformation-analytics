@@ -1,0 +1,25 @@
+report_id,report_name,reporting_area,report_owner,reporting_frequency,due_date,submission_status,escalation_status,open_issues_count,high_severity_issues_count
+REP_0001,Geography Rollout Status Report,Geography Rollout,Compliance Governance,QUARTERLY,2026-06-04,SUBMITTED,NOT_ESCALATED,0,0
+REP_0002,Monthly AML Lifecycle Governance Report,Documentation Standards,AML Holding,MONTHLY,2026-04-26,SUBMITTED,ESCALATED,1,0
+REP_0003,KYC Documentation Gap Report,Restrictive Measures,Financial Crime Risk,QUARTERLY,2026-04-20,DRAFT,NOT_ESCALATED,4,0
+REP_0004,Monthly AML Lifecycle Governance Report,Training & Communication,AML Holding,QUARTERLY,2026-06-04,DRAFT,ESCALATED,4,0
+REP_0005,Geography Rollout Status Report,Restrictive Measures,Financial Crime Risk,QUARTERLY,2026-06-12,SUBMITTED,NOT_ESCALATED,3,0
+REP_0006,Restrictive Measures Escalation Report,Documentation Standards,Financial Crime Risk,QUARTERLY,2026-05-17,SUBMITTED,ESCALATED,0,0
+REP_0007,Restrictive Measures Escalation Report,Customer Risk Rating,Compliance Governance,QUARTERLY,2026-03-29,SUBMITTED,ESCALATED,1,0
+REP_0008,Geography Rollout Status Report,Restrictive Measures,Compliance Governance,QUARTERLY,2026-05-10,NOT_SUBMITTED,NOT_ESCALATED,5,1
+REP_0009,Geography Rollout Status Report,Training & Communication,AML Holding,QUARTERLY,2026-05-15,SUBMITTED,ESCALATED,0,0
+REP_0010,Geography Rollout Status Report,Training & Communication,Compliance Governance,MONTHLY,2026-03-14,SUBMITTED,ESCALATED,0,0
+REP_0011,Monthly AML Lifecycle Governance Report,AML Lifecycle Governance,Compliance Governance,MONTHLY,2026-03-11,DRAFT,ESCALATED,1,2
+REP_0012,Restrictive Measures Escalation Report,Training & Communication,Financial Crime Risk,MONTHLY,2026-05-28,SUBMITTED,ESCALATED,1,0
+REP_0013,Customer Risk Rating Quality Report,Training & Communication,Financial Crime Risk,QUARTERLY,2026-04-09,DRAFT,ESCALATED,0,0
+REP_0014,KYC Documentation Gap Report,Customer Risk Rating,Local Compliance,MONTHLY,2026-04-24,SUBMITTED,ESCALATED,4,0
+REP_0015,Geography Rollout Status Report,Geography Rollout,Financial Crime Risk,MONTHLY,2026-03-07,NOT_SUBMITTED,NOT_ESCALATED,5,0
+REP_0016,Customer Risk Rating Quality Report,Restrictive Measures,Local Compliance,MONTHLY,2026-02-26,SUBMITTED,NOT_ESCALATED,4,2
+REP_0017,Monthly AML Lifecycle Governance Report,Customer Risk Rating,Financial Crime Risk,QUARTERLY,2026-03-25,SUBMITTED,ESCALATED,0,0
+REP_0018,Customer Risk Rating Quality Report,Training & Communication,AML Holding,QUARTERLY,2026-05-14,SUBMITTED,NOT_ESCALATED,4,0
+REP_0019,Geography Rollout Status Report,Customer Risk Rating,Financial Crime Risk,QUARTERLY,2026-02-25,SUBMITTED,ESCALATED,2,0
+REP_0020,Geography Rollout Status Report,Documentation Standards,Compliance Governance,MONTHLY,2026-03-01,SUBMITTED,ESCALATED,1,0
+REP_0021,Geography Rollout Status Report,Restrictive Measures,Local Compliance,MONTHLY,2026-03-14,DRAFT,NOT_ESCALATED,2,0
+REP_0022,KYC Documentation Gap Report,AML Lifecycle Governance,Compliance Governance,QUARTERLY,2026-04-16,SUBMITTED,NOT_ESCALATED,1,1
+REP_0023,Geography Rollout Status Report,AML Lifecycle Governance,AML Holding,QUARTERLY,2026-02-22,SUBMITTED,ESCALATED,4,0
+REP_0024,Customer Risk Rating Quality Report,Customer Risk Rating,AML Holding,QUARTERLY,2026-06-08,SUBMITTED,NOT_ESCALATED,3,0

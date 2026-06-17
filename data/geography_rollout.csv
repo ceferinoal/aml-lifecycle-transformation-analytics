@@ -1,0 +1,11 @@
+geography_id,country,region,aml_standard_name,corporate_standard_version,communication_date,rollout_status,implementation_deadline,actual_implementation_date,local_owner,local_owner_assigned_flag,open_gaps_count,remediation_due_date,remediation_status
+GEO_001,Spain,Europe,AML Customer Lifecycle Corporate Standard,v1.0,2025-12-02,DELAYED,2026-05-24,,Local Compliance,YES,0,2026-11-25,IN_PROGRESS
+GEO_002,Mexico,North America,AML Customer Lifecycle Corporate Standard,v1.0,2025-08-31,IMPLEMENTED,2026-11-14,2026-04-17,,YES,2,2026-02-22,CLOSED
+GEO_003,Colombia,South America,AML Customer Lifecycle Corporate Standard,v1.0,2025-11-11,NOT_STARTED,2025-12-20,,Risk Owner,YES,2,2026-04-07,OPEN
+GEO_004,Peru,South America,AML Customer Lifecycle Corporate Standard,v1.0,2025-12-06,IMPLEMENTED,2026-07-25,2026-02-11,,YES,0,2026-08-22,OPEN
+GEO_005,Argentina,South America,AML Customer Lifecycle Corporate Standard,v1.0,2025-09-15,IN_PROGRESS,2026-09-06,,,NO,1,2026-03-02,CLOSED
+GEO_006,Turkey,EMEA,AML Customer Lifecycle Corporate Standard,v1.0,2025-11-21,IN_PROGRESS,2026-12-14,,Local Compliance,YES,0,2026-10-13,OPEN
+GEO_007,Morocco,Africa,AML Customer Lifecycle Corporate Standard,v1.0,2026-01-17,IMPLEMENTED,2027-01-15,2026-01-29,Risk Owner,YES,4,2026-02-14,IN_PROGRESS
+GEO_008,Panama,Central America,AML Customer Lifecycle Corporate Standard,v1.0,2025-11-08,IMPLEMENTED,2026-10-06,2026-03-25,Local Compliance,YES,1,2026-04-15,OPEN
+GEO_009,UAE,Middle East,AML Customer Lifecycle Corporate Standard,v1.0,2026-05-04,IMPLEMENTED,2026-09-16,2026-01-15,Local Compliance,YES,2,2026-05-09,CLOSED
+GEO_010,Switzerland,Europe,AML Customer Lifecycle Corporate Standard,v1.0,2025-12-26,IMPLEMENTED,2026-10-26,2026-02-28,Risk Owner,YES,0,2026-09-26,OPEN
